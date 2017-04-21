@@ -1,2 +1,2 @@
 fortunes:
-  ClientType: asmx
+  ClientType: rest
