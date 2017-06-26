@@ -1,2 +1,2 @@
 fortunes:
-  ClientType: wcf
+  ClientType: rest
