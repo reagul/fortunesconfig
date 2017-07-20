@@ -1,5 +1,5 @@
 fortunes:
-  ClientType: asmx
+  ClientType: rest
   MySecretValue: '{cipher}cd669db329a04b41bee400402847211b042ca97db183eecb64eb99ad7f82ab40'
 
 
